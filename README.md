@@ -6,9 +6,11 @@ Made by Vladislav Gusev and Vadim Smirnov.
 ### 1. Repository Guide:
   1.1 IR.ipynb - project code wich contains main comments, graphs and conclusions
   
-  1.2 IR.pdf - project code in a convenient readable format
+  1.2 IR.pdf - project code in a convenient readable format (raw, including code)
+
+  1.3 IR_Report_Projet.pdf - full report written in LaTeX
   
-  1.3 turk3myield - 3 month Turkish soverign yield data from year 2000 to up to 2024 (daily)
+  1.4 turk3myield - 3 month Turkish soverign yield data from year 2000 to up to 2024 (daily)
   
 ### 2. Main results
   2.1 Sung k-means clusterizaion 3 main distiicnt periods have been determined in the short-term interest rate yields
